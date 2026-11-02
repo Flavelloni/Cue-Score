@@ -1,4 +1,234 @@
 ﻿tournament_id,starttime,match_id,player_a_id,player_a_name,player_b_id,player_b_name,winner_id,winner_name,loser_id,loser_name,note_time,result_source,discipline,source
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,17978686,Ibra Alkhader,51736666,Yakup Aliz,2026-11-01T18:35:46.278Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,17978686,Ibra Alkhader,51736666,Yakup Aliz,2026-11-01T18:38:34.036Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,17978686,Ibra Alkhader,51736666,Yakup Aliz,2026-11-01T18:42:11.635Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,17978686,Ibra Alkhader,51736666,Yakup Aliz,2026-11-01T18:46:39.528Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,17978686,Ibra Alkhader,51736666,Yakup Aliz,2026-11-01T18:49:42.511Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,17978686,Ibra Alkhader,51736666,Yakup Aliz,2026-11-01T18:52:15.437Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,17978686,Ibra Alkhader,51736666,Yakup Aliz,2026-11-01T18:58:12.150Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,51736666,Yakup Aliz,17978686,Ibra Alkhader,2026-11-01T19:00:17.967Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,17978686,Ibra Alkhader,51736666,Yakup Aliz,2026-11-01T19:03:38.878Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,51736666,Yakup Aliz,17978686,Ibra Alkhader,2026-11-01T19:07:02.787Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536435,51736666,Yakup Aliz,17978686,Ibra Alkhader,17978686,Ibra Alkhader,51736666,Yakup Aliz,2026-11-01T19:10:52.865Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,2026-11-01T18:40:41.190Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,2026-11-01T18:46:07.841Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,2026-11-01T18:50:53.533Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,2026-11-01T18:55:17.245Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,2026-11-01T19:00:58.173Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,2026-11-01T19:05:07.999Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,2026-11-01T19:09:26.790Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,2026-11-01T19:15:02.552Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,2026-11-01T19:21:47.080Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,2026-11-01T19:31:58.968Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536438,44184394,Per Arne Grotthing,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,44184394,Per Arne Grotthing,2026-11-01T19:40:43.004Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536441,13720633,Håkon Haukebøe,16476664,Øystein Følling,16476664,Øystein Følling,13720633,Håkon Haukebøe,2026-11-01T18:35:51.482Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536441,13720633,Håkon Haukebøe,16476664,Øystein Følling,13720633,Håkon Haukebøe,16476664,Øystein Følling,2026-11-01T18:41:56.333Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536441,13720633,Håkon Haukebøe,16476664,Øystein Følling,13720633,Håkon Haukebøe,16476664,Øystein Følling,2026-11-01T18:48:39.486Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536441,13720633,Håkon Haukebøe,16476664,Øystein Følling,13720633,Håkon Haukebøe,16476664,Øystein Følling,2026-11-01T18:59:53.346Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536441,13720633,Håkon Haukebøe,16476664,Øystein Følling,13720633,Håkon Haukebøe,16476664,Øystein Følling,2026-11-01T19:09:15.403Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536444,33729541,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,80088046,Kim Rui,33729541,Eivind Yoo Yong Jae Johansen,2026-11-01T18:39:50.370Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536444,33729541,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,80088046,Kim Rui,33729541,Eivind Yoo Yong Jae Johansen,2026-11-01T18:47:43.721Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536444,33729541,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,33729541,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,2026-11-01T18:51:49.393Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536444,33729541,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,80088046,Kim Rui,33729541,Eivind Yoo Yong Jae Johansen,2026-11-01T18:57:05.913Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,2026-11-01T19:58:26.527Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,2026-11-01T20:01:56.294Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,2026-11-01T20:05:34.073Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,2026-11-01T20:10:25.718Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,2026-11-01T20:12:26.789Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,2026-11-01T20:15:50.873Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,2026-11-01T20:20:00.730Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,2026-11-01T20:28:00.434Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,2026-11-01T20:32:23.352Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,2026-11-01T20:34:43.723Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,2026-11-01T20:38:28.228Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,2026-11-01T20:43:13.852Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536447,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,17978686,Ibra Alkhader,1006239,Frank Hjeldnes,2026-11-01T20:46:26.283Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536450,13720633,Håkon Haukebøe,80088046,Kim Rui,80088046,Kim Rui,13720633,Håkon Haukebøe,2026-11-01T19:16:23.701Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536450,13720633,Håkon Haukebøe,80088046,Kim Rui,13720633,Håkon Haukebøe,80088046,Kim Rui,2026-11-01T19:22:48.220Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536450,13720633,Håkon Haukebøe,80088046,Kim Rui,80088046,Kim Rui,13720633,Håkon Haukebøe,2026-11-01T19:26:58.574Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536450,13720633,Håkon Haukebøe,80088046,Kim Rui,80088046,Kim Rui,13720633,Håkon Haukebøe,2026-11-01T19:30:22.327Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536450,13720633,Håkon Haukebøe,80088046,Kim Rui,80088046,Kim Rui,13720633,Håkon Haukebøe,2026-11-01T19:39:51.130Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536450,13720633,Håkon Haukebøe,80088046,Kim Rui,80088046,Kim Rui,13720633,Håkon Haukebøe,2026-11-01T19:46:11.470Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536453,17978686,Ibra Alkhader,80088046,Kim Rui,17978686,Ibra Alkhader,80088046,Kim Rui,2026-11-01T21:00:35.001Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536453,17978686,Ibra Alkhader,80088046,Kim Rui,80088046,Kim Rui,17978686,Ibra Alkhader,2026-11-01T21:04:19.159Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536453,17978686,Ibra Alkhader,80088046,Kim Rui,17978686,Ibra Alkhader,80088046,Kim Rui,2026-11-01T21:09:15.464Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536453,17978686,Ibra Alkhader,80088046,Kim Rui,17978686,Ibra Alkhader,80088046,Kim Rui,2026-11-01T21:10:17.274Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536453,17978686,Ibra Alkhader,80088046,Kim Rui,80088046,Kim Rui,17978686,Ibra Alkhader,2026-11-01T21:13:58.497Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536453,17978686,Ibra Alkhader,80088046,Kim Rui,17978686,Ibra Alkhader,80088046,Kim Rui,2026-11-01T21:19:14.594Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536453,17978686,Ibra Alkhader,80088046,Kim Rui,17978686,Ibra Alkhader,80088046,Kim Rui,2026-11-01T21:21:13.592Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536453,17978686,Ibra Alkhader,80088046,Kim Rui,17978686,Ibra Alkhader,80088046,Kim Rui,2026-11-01T21:24:26.224Z,frame_note,9-Ball,ostkanten
+92536342,2026-11-01T17:00:00Z,92536453,17978686,Ibra Alkhader,80088046,Kim Rui,17978686,Ibra Alkhader,80088046,Kim Rui,2026-11-01T21:30:05.275Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529655,36990883,Anders Valde,51736666,Yakup Aliz,51736666,Yakup Aliz,36990883,Anders Valde,2026-11-01T14:24:21.474Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529655,36990883,Anders Valde,51736666,Yakup Aliz,51736666,Yakup Aliz,36990883,Anders Valde,2026-11-01T14:32:30.484Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529655,36990883,Anders Valde,51736666,Yakup Aliz,51736666,Yakup Aliz,36990883,Anders Valde,2026-11-01T14:39:13.635Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529655,36990883,Anders Valde,51736666,Yakup Aliz,51736666,Yakup Aliz,36990883,Anders Valde,2026-11-01T14:47:37.573Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529655,36990883,Anders Valde,51736666,Yakup Aliz,51736666,Yakup Aliz,36990883,Anders Valde,2026-11-01T14:52:02.902Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529655,36990883,Anders Valde,51736666,Yakup Aliz,51736666,Yakup Aliz,36990883,Anders Valde,2026-11-01T14:58:46.676Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529658,24897019,Robert Hedin,44184394,Per Arne Grotthing,24897019,Robert Hedin,44184394,Per Arne Grotthing,2026-11-01T14:33:13.115Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529658,24897019,Robert Hedin,44184394,Per Arne Grotthing,24897019,Robert Hedin,44184394,Per Arne Grotthing,2026-11-01T14:41:49.272Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529658,24897019,Robert Hedin,44184394,Per Arne Grotthing,24897019,Robert Hedin,44184394,Per Arne Grotthing,2026-11-01T14:46:55.456Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529658,24897019,Robert Hedin,44184394,Per Arne Grotthing,24897019,Robert Hedin,44184394,Per Arne Grotthing,2026-11-01T14:52:42.161Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529658,24897019,Robert Hedin,44184394,Per Arne Grotthing,24897019,Robert Hedin,44184394,Per Arne Grotthing,2026-11-01T14:56:47.236Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529658,24897019,Robert Hedin,44184394,Per Arne Grotthing,24897019,Robert Hedin,44184394,Per Arne Grotthing,2026-11-01T15:01:19.474Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529658,24897019,Robert Hedin,44184394,Per Arne Grotthing,44184394,Per Arne Grotthing,24897019,Robert Hedin,2026-11-01T15:04:08.567Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529658,24897019,Robert Hedin,44184394,Per Arne Grotthing,24897019,Robert Hedin,44184394,Per Arne Grotthing,2026-11-01T15:07:28.355Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529661,7153377,Henning Ingvorsen,1510340,Andris Viksnins,1510340,Andris Viksnins,7153377,Henning Ingvorsen,2026-11-01T14:22:58.166Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529661,7153377,Henning Ingvorsen,1510340,Andris Viksnins,7153377,Henning Ingvorsen,1510340,Andris Viksnins,2026-11-01T14:26:03.821Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529661,7153377,Henning Ingvorsen,1510340,Andris Viksnins,7153377,Henning Ingvorsen,1510340,Andris Viksnins,2026-11-01T14:31:21.367Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529661,7153377,Henning Ingvorsen,1510340,Andris Viksnins,1510340,Andris Viksnins,7153377,Henning Ingvorsen,2026-11-01T14:35:04.971Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529661,7153377,Henning Ingvorsen,1510340,Andris Viksnins,1510340,Andris Viksnins,7153377,Henning Ingvorsen,2026-11-01T14:42:20.048Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529661,7153377,Henning Ingvorsen,1510340,Andris Viksnins,1510340,Andris Viksnins,7153377,Henning Ingvorsen,2026-11-01T14:51:02.643Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529661,7153377,Henning Ingvorsen,1510340,Andris Viksnins,7153377,Henning Ingvorsen,1510340,Andris Viksnins,2026-11-01T14:56:12.123Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529661,7153377,Henning Ingvorsen,1510340,Andris Viksnins,1510340,Andris Viksnins,7153377,Henning Ingvorsen,2026-11-01T15:01:47.851Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529664,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,13720633,Håkon Haukebøe,17978686,Ibra Alkhader,2026-11-01T14:21:30.807Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529664,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,2026-11-01T14:25:16.385Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529664,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,13720633,Håkon Haukebøe,17978686,Ibra Alkhader,2026-11-01T14:32:28.534Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529664,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,13720633,Håkon Haukebøe,17978686,Ibra Alkhader,2026-11-01T14:36:57.506Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529664,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,2026-11-01T14:40:10.688Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529664,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,2026-11-01T14:44:39.218Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529664,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,2026-11-01T14:56:57.440Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529664,17978686,Ibra Alkhader,13720633,Håkon Haukebøe,13720633,Håkon Haukebøe,17978686,Ibra Alkhader,2026-11-01T15:01:13.277Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529667,1006239,Frank Hjeldnes,16476664,Øystein Følling,1006239,Frank Hjeldnes,16476664,Øystein Følling,2026-11-01T15:17:55.238Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529667,1006239,Frank Hjeldnes,16476664,Øystein Følling,1006239,Frank Hjeldnes,16476664,Øystein Følling,2026-11-01T15:17:55.445Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529667,1006239,Frank Hjeldnes,16476664,Øystein Følling,1006239,Frank Hjeldnes,16476664,Øystein Følling,2026-11-01T15:17:55.611Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529667,1006239,Frank Hjeldnes,16476664,Øystein Følling,1006239,Frank Hjeldnes,16476664,Øystein Følling,2026-11-01T15:17:55.790Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529667,1006239,Frank Hjeldnes,16476664,Øystein Følling,1006239,Frank Hjeldnes,16476664,Øystein Følling,2026-11-01T15:17:55.951Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529667,1006239,Frank Hjeldnes,16476664,Øystein Følling,16476664,Øystein Følling,1006239,Frank Hjeldnes,2026-11-01T15:18:09.110Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529667,1006239,Frank Hjeldnes,16476664,Øystein Følling,16476664,Øystein Følling,1006239,Frank Hjeldnes,2026-11-01T15:18:09.563Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529667,1006239,Frank Hjeldnes,16476664,Øystein Følling,1006239,Frank Hjeldnes,16476664,Øystein Følling,2026-11-01T15:18:10.405Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,25875517,Christian Hedin,62353570,Hallvard Olaussen,2026-11-01T14:33:57.939Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,62353570,Hallvard Olaussen,25875517,Christian Hedin,2026-11-01T14:42:46.162Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,62353570,Hallvard Olaussen,25875517,Christian Hedin,2026-11-01T14:48:22.380Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,25875517,Christian Hedin,62353570,Hallvard Olaussen,2026-11-01T14:54:14.419Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,25875517,Christian Hedin,62353570,Hallvard Olaussen,2026-11-01T15:00:15.398Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,25875517,Christian Hedin,62353570,Hallvard Olaussen,2026-11-01T15:10:26.677Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,62353570,Hallvard Olaussen,25875517,Christian Hedin,2026-11-01T15:27:43.563Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,25875517,Christian Hedin,62353570,Hallvard Olaussen,2026-11-01T15:27:45.741Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,25875517,Christian Hedin,62353570,Hallvard Olaussen,2026-11-01T15:35:55.663Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529670,62353570,Hallvard Olaussen,25875517,Christian Hedin,25875517,Christian Hedin,62353570,Hallvard Olaussen,2026-11-01T15:48:28.030Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529673,44478316,Rune Stensvold,19616722,Lobsang Thupten,19616722,Lobsang Thupten,44478316,Rune Stensvold,2026-11-01T14:30:19.519Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529673,44478316,Rune Stensvold,19616722,Lobsang Thupten,44478316,Rune Stensvold,19616722,Lobsang Thupten,2026-11-01T14:35:13.045Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529673,44478316,Rune Stensvold,19616722,Lobsang Thupten,19616722,Lobsang Thupten,44478316,Rune Stensvold,2026-11-01T14:42:08.029Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529673,44478316,Rune Stensvold,19616722,Lobsang Thupten,44478316,Rune Stensvold,19616722,Lobsang Thupten,2026-11-01T14:48:46.836Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529673,44478316,Rune Stensvold,19616722,Lobsang Thupten,44478316,Rune Stensvold,19616722,Lobsang Thupten,2026-11-01T14:56:59.153Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529673,44478316,Rune Stensvold,19616722,Lobsang Thupten,19616722,Lobsang Thupten,44478316,Rune Stensvold,2026-11-01T15:05:31.503Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529673,44478316,Rune Stensvold,19616722,Lobsang Thupten,44478316,Rune Stensvold,19616722,Lobsang Thupten,2026-11-01T15:10:36.447Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529673,44478316,Rune Stensvold,19616722,Lobsang Thupten,19616722,Lobsang Thupten,44478316,Rune Stensvold,2026-11-01T15:16:43.132Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529676,2194859,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,80088046,Kim Rui,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T14:31:06.304Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529676,2194859,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,80088046,Kim Rui,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T14:34:44.749Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529676,2194859,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,2194859,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,2026-11-01T14:38:01.291Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529676,2194859,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,80088046,Kim Rui,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T14:41:39.685Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529676,2194859,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,2194859,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,2026-11-01T14:47:34.556Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529676,2194859,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,80088046,Kim Rui,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T14:53:30.545Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529676,2194859,Eivind Yoo Yong Jae Johansen,80088046,Kim Rui,80088046,Kim Rui,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T14:55:09.040Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,51736666,Yakup Aliz,24897019,Robert Hedin,2026-11-01T15:18:40.996Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,51736666,Yakup Aliz,24897019,Robert Hedin,2026-11-01T15:23:40.063Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,24897019,Robert Hedin,51736666,Yakup Aliz,2026-11-01T15:31:21.568Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,24897019,Robert Hedin,51736666,Yakup Aliz,2026-11-01T15:39:21.031Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,51736666,Yakup Aliz,24897019,Robert Hedin,2026-11-01T15:47:09.066Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,24897019,Robert Hedin,51736666,Yakup Aliz,2026-11-01T15:52:27.083Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,51736666,Yakup Aliz,24897019,Robert Hedin,2026-11-01T15:54:35.033Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,51736666,Yakup Aliz,24897019,Robert Hedin,2026-11-01T16:02:04.032Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,24897019,Robert Hedin,51736666,Yakup Aliz,2026-11-01T16:08:35.691Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,24897019,Robert Hedin,51736666,Yakup Aliz,2026-11-01T16:15:38.393Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,24897019,Robert Hedin,51736666,Yakup Aliz,2026-11-01T16:21:37.266Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529679,51736666,Yakup Aliz,24897019,Robert Hedin,51736666,Yakup Aliz,24897019,Robert Hedin,2026-11-01T16:29:15.783Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529682,1510340,Andris Viksnins,13720633,Håkon Haukebøe,13720633,Håkon Haukebøe,1510340,Andris Viksnins,2026-11-01T15:11:42.377Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529682,1510340,Andris Viksnins,13720633,Håkon Haukebøe,13720633,Håkon Haukebøe,1510340,Andris Viksnins,2026-11-01T15:16:00.636Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529682,1510340,Andris Viksnins,13720633,Håkon Haukebøe,13720633,Håkon Haukebøe,1510340,Andris Viksnins,2026-11-01T15:20:18.845Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529682,1510340,Andris Viksnins,13720633,Håkon Haukebøe,13720633,Håkon Haukebøe,1510340,Andris Viksnins,2026-11-01T15:24:49.384Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,1006239,Frank Hjeldnes,25875517,Christian Hedin,2026-11-01T15:53:59.367Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,1006239,Frank Hjeldnes,25875517,Christian Hedin,2026-11-01T15:59:59.502Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,25875517,Christian Hedin,1006239,Frank Hjeldnes,2026-11-01T16:08:08.905Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,1006239,Frank Hjeldnes,25875517,Christian Hedin,2026-11-01T16:14:48.204Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,25875517,Christian Hedin,1006239,Frank Hjeldnes,2026-11-01T16:19:09.098Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,25875517,Christian Hedin,1006239,Frank Hjeldnes,2026-11-01T16:23:17.922Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,1006239,Frank Hjeldnes,25875517,Christian Hedin,2026-11-01T16:27:17.712Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,25875517,Christian Hedin,1006239,Frank Hjeldnes,2026-11-01T16:31:02.174Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,25875517,Christian Hedin,1006239,Frank Hjeldnes,2026-11-01T16:37:39.733Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,25875517,Christian Hedin,1006239,Frank Hjeldnes,2026-11-01T16:45:39.746Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,1006239,Frank Hjeldnes,25875517,Christian Hedin,2026-11-01T16:52:24.077Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529685,1006239,Frank Hjeldnes,25875517,Christian Hedin,1006239,Frank Hjeldnes,25875517,Christian Hedin,2026-11-01T16:56:56.744Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529688,19616722,Lobsang Thupten,80088046,Kim Rui,80088046,Kim Rui,19616722,Lobsang Thupten,2026-11-01T15:34:38.213Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529688,19616722,Lobsang Thupten,80088046,Kim Rui,80088046,Kim Rui,19616722,Lobsang Thupten,2026-11-01T15:34:56.839Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529688,19616722,Lobsang Thupten,80088046,Kim Rui,80088046,Kim Rui,19616722,Lobsang Thupten,2026-11-01T15:38:01.834Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529688,19616722,Lobsang Thupten,80088046,Kim Rui,19616722,Lobsang Thupten,80088046,Kim Rui,2026-11-01T15:41:31.083Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529688,19616722,Lobsang Thupten,80088046,Kim Rui,80088046,Kim Rui,19616722,Lobsang Thupten,2026-11-01T15:51:57.900Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529688,19616722,Lobsang Thupten,80088046,Kim Rui,80088046,Kim Rui,19616722,Lobsang Thupten,2026-11-01T15:58:27.181Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529691,36990883,Anders Valde,44184394,Per Arne Grotthing,44184394,Per Arne Grotthing,36990883,Anders Valde,2026-11-01T15:22:52.017Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529691,36990883,Anders Valde,44184394,Per Arne Grotthing,36990883,Anders Valde,44184394,Per Arne Grotthing,2026-11-01T15:31:21.918Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529691,36990883,Anders Valde,44184394,Per Arne Grotthing,44184394,Per Arne Grotthing,36990883,Anders Valde,2026-11-01T15:38:27.302Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529691,36990883,Anders Valde,44184394,Per Arne Grotthing,44184394,Per Arne Grotthing,36990883,Anders Valde,2026-11-01T15:48:36.626Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529691,36990883,Anders Valde,44184394,Per Arne Grotthing,44184394,Per Arne Grotthing,36990883,Anders Valde,2026-11-01T15:55:13.428Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529691,36990883,Anders Valde,44184394,Per Arne Grotthing,36990883,Anders Valde,44184394,Per Arne Grotthing,2026-11-01T16:01:48.050Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529691,36990883,Anders Valde,44184394,Per Arne Grotthing,44184394,Per Arne Grotthing,36990883,Anders Valde,2026-11-01T16:08:52.568Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529691,36990883,Anders Valde,44184394,Per Arne Grotthing,36990883,Anders Valde,44184394,Per Arne Grotthing,2026-11-01T16:15:36.580Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529691,36990883,Anders Valde,44184394,Per Arne Grotthing,44184394,Per Arne Grotthing,36990883,Anders Valde,2026-11-01T16:21:53.442Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,2026-11-01T15:10:59.315Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,2026-11-01T15:14:47.123Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,2026-11-01T15:19:13.004Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,2026-11-01T15:22:07.017Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,2026-11-01T15:29:14.468Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,2026-11-01T15:34:25.791Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,2026-11-01T15:37:49.200Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,2026-11-01T15:40:28.232Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,2026-11-01T15:43:12.546Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,2026-11-01T15:47:24.140Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,2026-11-01T15:50:06.934Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,2026-11-01T15:53:13.060Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,2026-11-01T15:55:56.433Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529694,7153377,Henning Ingvorsen,17978686,Ibra Alkhader,17978686,Ibra Alkhader,7153377,Henning Ingvorsen,2026-11-01T16:01:42.805Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529697,16476664,Øystein Følling,62353570,Hallvard Olaussen,16476664,Øystein Følling,62353570,Hallvard Olaussen,2026-11-01T16:00:05.251Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529697,16476664,Øystein Følling,62353570,Hallvard Olaussen,16476664,Øystein Følling,62353570,Hallvard Olaussen,2026-11-01T16:08:31.793Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529697,16476664,Øystein Følling,62353570,Hallvard Olaussen,16476664,Øystein Følling,62353570,Hallvard Olaussen,2026-11-01T16:13:19.164Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529697,16476664,Øystein Følling,62353570,Hallvard Olaussen,16476664,Øystein Følling,62353570,Hallvard Olaussen,2026-11-01T16:19:54.469Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529697,16476664,Øystein Følling,62353570,Hallvard Olaussen,16476664,Øystein Følling,62353570,Hallvard Olaussen,2026-11-01T16:26:46.107Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529700,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T15:29:13.525Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529700,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T15:34:34.093Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529700,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,2194859,Eivind Yoo Yong Jae Johansen,44478316,Rune Stensvold,2026-11-01T15:40:52.108Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529700,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,2194859,Eivind Yoo Yong Jae Johansen,44478316,Rune Stensvold,2026-11-01T15:45:04.579Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529700,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,2194859,Eivind Yoo Yong Jae Johansen,44478316,Rune Stensvold,2026-11-01T15:48:41.421Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529700,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T15:55:08.657Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529700,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T16:07:34.998Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529700,44478316,Rune Stensvold,2194859,Eivind Yoo Yong Jae Johansen,2194859,Eivind Yoo Yong Jae Johansen,44478316,Rune Stensvold,2026-11-01T16:12:00.250Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529703,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,2026-11-01T16:37:15.523Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529703,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,2026-11-01T16:41:09.749Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529703,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,2026-11-01T16:45:02.926Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529703,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,2026-11-01T16:49:07.654Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529703,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,2026-11-01T16:53:41.555Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529703,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,44184394,Per Arne Grotthing,19616722,Lobsang Thupten,2026-11-01T16:59:06.655Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T17:11:36.518Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,25875517,Christian Hedin,17978686,Ibra Alkhader,2026-11-01T17:16:54.755Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,25875517,Christian Hedin,17978686,Ibra Alkhader,2026-11-01T17:21:30.318Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T17:25:54.206Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T17:31:32.689Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T17:35:53.739Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,25875517,Christian Hedin,17978686,Ibra Alkhader,2026-11-01T17:39:44.580Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T17:43:33.840Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T17:46:33.866Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,25875517,Christian Hedin,17978686,Ibra Alkhader,2026-11-01T17:55:28.786Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T18:00:50.732Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T18:07:12.407Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T18:12:09.817Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529706,17978686,Ibra Alkhader,25875517,Christian Hedin,17978686,Ibra Alkhader,25875517,Christian Hedin,2026-11-01T18:12:09.930Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529709,16476664,Øystein Følling,1510340,Andris Viksnins,16476664,Øystein Følling,1510340,Andris Viksnins,2026-11-01T16:43:16.985Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529709,16476664,Øystein Følling,1510340,Andris Viksnins,16476664,Øystein Følling,1510340,Andris Viksnins,2026-11-01T16:50:49.564Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529709,16476664,Øystein Følling,1510340,Andris Viksnins,1510340,Andris Viksnins,16476664,Øystein Følling,2026-11-01T16:52:57.262Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529709,16476664,Øystein Følling,1510340,Andris Viksnins,16476664,Øystein Følling,1510340,Andris Viksnins,2026-11-01T16:59:31.095Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529709,16476664,Øystein Følling,1510340,Andris Viksnins,16476664,Øystein Følling,1510340,Andris Viksnins,2026-11-01T17:07:06.539Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529709,16476664,Øystein Følling,1510340,Andris Viksnins,1510340,Andris Viksnins,16476664,Øystein Følling,2026-11-01T17:13:52.050Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529709,16476664,Øystein Følling,1510340,Andris Viksnins,1510340,Andris Viksnins,16476664,Øystein Følling,2026-11-01T17:19:22.109Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529709,16476664,Øystein Følling,1510340,Andris Viksnins,16476664,Øystein Følling,1510340,Andris Viksnins,2026-11-01T17:22:36.873Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T16:37:02.164Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,2026-11-01T16:43:30.548Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T16:46:53.891Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T16:54:44.635Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,2026-11-01T17:01:48.257Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T17:08:14.424Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T17:14:45.639Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,2026-11-01T17:20:01.884Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,2026-11-01T17:27:49.990Z,frame_note,9-Ball,ostkanten
+92481757,2026-11-01T14:00:00Z,92529712,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,2194859,Eivind Yoo Yong Jae Johansen,24897019,Robert Hedin,2026-11-01T17:27:51.139Z,frame_note,9-Ball,ostkanten
 89950984,2026-10-31T11:00:00Z,92458237,1073747,John Erstad,42921529,Joshua Turla Tuppal,42921529,Joshua Turla Tuppal,1073747,John Erstad,2026-10-31T11:29:04.878Z,frame_note,9-Ball,obk
 89950984,2026-10-31T11:00:00Z,92458237,1073747,John Erstad,42921529,Joshua Turla Tuppal,42921529,Joshua Turla Tuppal,1073747,John Erstad,2026-10-31T11:37:08.352Z,frame_note,9-Ball,obk
 89950984,2026-10-31T11:00:00Z,92458237,1073747,John Erstad,42921529,Joshua Turla Tuppal,1073747,John Erstad,42921529,Joshua Turla Tuppal,2026-10-31T11:45:47.021Z,frame_note,9-Ball,obk
